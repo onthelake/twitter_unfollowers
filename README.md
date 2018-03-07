@@ -5,3 +5,4 @@
 * Fill in the file *keys.py* with information from the site
 * Run *unfollowers.py* in console python3 unfollowers.py
 
+**Do not forget to install the tweepy library***
